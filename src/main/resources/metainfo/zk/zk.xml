@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zk>
+	<config-name>tom</config-name>
+	<client-config>
+		<data-handler>
+			<name>tom</name> 
+			<link href="~./css/tom.css" rel="stylesheet" /> <!-- custom css -->
+			<script src="~./js/lib/tom-3rd-party.js" /> <!-- 3rd party Library -->
+            <script src="~./js/tom.js" /> <!-- Data Handler Script -->
+		</data-handler>
+	</client-config>
+</zk>
